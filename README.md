@@ -18,3 +18,23 @@ There is a collection of my assignments. The course is "Computer Vision" of the 
 
 ### 2.2 Assignment 2
 这是期末作业，由三部分组成，分别是Seam Carving, Graph-Based Image Segmentation和Visual Bag of Words，具体要求见report.pdf。
+
+下面是一些结果展示，Seam Carving的GIF动图如下所示：
+
+![13_output.gif](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question1/13_output.gif)
+
+![113_output.gif](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question1/113_output.gif)
+
+![213_output.gif](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question1/213_output.gif)
+
+![313_output.gif](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question1/313_output.gif)
+
+Graph-Based Image Segmentation部分结果如下所示：
+
+![13_segmentation.png](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question2/13_segmentation.png)
+
+![113_segmentation.png](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question2/113_segmentation.png)
+
+![213_segmentation.png](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question2/213_segmentation.png)
+
+![313_segmentation.png](https://github.com/cnhaox/2021Spring-SYSU-Computer_Vision/blob/master/Assignment2/results/question2/313_segmentation.png)
