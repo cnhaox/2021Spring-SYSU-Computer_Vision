@@ -4,7 +4,7 @@
 
 There is a collection of my assignments. The course is "Computer Vision" of the School of Computer Science, Sun Yat-Sen University in the spring of 2021. The instructor is Guanbin Li.
 
-这是我在上中带计院的《计算机视觉》课程时完成的课程作业与实验项目，老师为李冠彬。内容只是简单备份，仅供参考。
+这是我在上中带计院的《计算机视觉》本科课程时完成的课程作业与实验项目，老师为李冠彬。内容只是简单备份，仅供参考。
 
 ## 2 Contents
 
